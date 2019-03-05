@@ -10,7 +10,7 @@ Generation size is limited only in interface mode, you can change limits in code
 JAVA .jar directory: JAVA\Hexarinth\dist\testmaze.jar
 
 
-###Examples:
+# Examples:
 ##     10x10:
 ![](10x10.PNG)
 ##     10x20:
