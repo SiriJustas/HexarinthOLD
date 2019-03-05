@@ -23,3 +23,5 @@ JAVA .jar directory: JAVA\Hexarinth\dist\testmaze.jar
 
 
 Unity 3D (2.5D) / C# version of game is created and will achieve the final form in few weeks/months... and is going to be uploaded here.
+##     Unity version 24x24:
+![](unity24.PNG)
