@@ -1,11 +1,11 @@
 # Hexarinth
 Hexagon labyrinth generator made in pure JAVA + Swing, adopted in C# and unity.
 
-Generation is made with Back Tracking<br />
-End point is set by reverse Djikstra to make correct path as long as possible<br />
-Start point is RED, end point is BLUE<br />
-Controlling = Mouse (click/drag) keyboard makes it different because of 6 possible ways or you can print it and solve it by your hand.<br />
-Generation size is limited only in interface mode, you can change limits in code by yourself. <br />
+Generation is made by Reverse BackTracking<br />
+End point is set by Reverse Djikstra to make correct path as long as possible<br />
+Starting point is RED, ending point is BLUE<br />
+Controlling = Mouse (click/drag) keyboard makes it different because of 6 possible ways or you can print it and solve it by your hand (JAVA version) and ARROWS (Unity/C# version) <br />
+Generation size is limited only in the interface mode, you can change limits in code by yourself. <br />
 
 Lots of comments for debugging (as always), sorry for that
 
